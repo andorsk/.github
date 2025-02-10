@@ -6,11 +6,7 @@ Currently, I co-chair the **Decentralized Web Node WG at DIF**, co-lead the **Tr
 
 I thrive at the intersection of **engineering and R&D**, balancing exploration with production-grade execution. With multiple CTO roles and years of open-source leadership, I’ve built teams, products, and infrastructure from the ground up. 
 
-#### **Technology**  
-- **Backend & AI** – Golang, Python, ML/AI, Computer Vision  
-- **Decentralized Identity** – DIDs, VCs, Trust Registries, Decentralized Web Nodes  
-- **Infrastructure** – GCP, Terraform/Tofu, DevOps, GitHub Actions
-- **Languages**: Go, Python, Typescript. A little bit of Rust. 
+**Languages**: Go, Python, Typescript. Others as necessary ( elisp, rust, etc ).
 
 #### **Focus Areas**  
 
