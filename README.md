@@ -6,7 +6,7 @@ See my website at http://andor.us for more info.
 
 #### **Focus Areas**  
 
-- **Decentralized Identity & Trust** – Leading multiple open-source initiatives in the space  
+- **Decentralized Identity & Trust** – Leading multiple open-source initiatives in the space. Founder of DIF Labs and Lead of the Technical Workstream At Ayra Association. 
 - **Building & Scaling Teams** – Engineering, product, and strategy experience
 - **Multi-Agent Theory** -- Decentralized Multi-agent interactions. 
 - **AI & Behavioral Understanding** – Two startups in AI-driven spatial intelligence  
